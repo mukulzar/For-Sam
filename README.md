@@ -1,13 +1,6 @@
-FOR SAM
-FOR SAM
-FRO SAM 
+# FOR SAMRIDDHI GUPTA
 
-# Progress Dashboard
-
-FOR SAMRIDDHI GUPTA
-FOR SAMRIDDHI GUPTA
-FOR SAMRIDDHI GUPTA
-FOR SAMRIDDHI GUPTA
+PROGRESS DASHBOARD
 
 Progress is a role-based skill intelligence and career platform designed for three user personas:
 
